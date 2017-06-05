@@ -1,0 +1,8 @@
+# Paste into a root shell on your Ubuntu VM
+
+
+Step1: curl -L https://gist.githubusercontent.com/meeee/5e252e93ba4589e67cf3/raw/faa25d74545ca527d713df2b843da43af3cf92ea/network > /etc/init.d/network
+
+Step2: chmod +x /etc/init.d/network
+
+#Suspend fix installed :)
