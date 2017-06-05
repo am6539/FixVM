@@ -1,7 +1,7 @@
 # Paste into a root shell on your Ubuntu VM
 
 
-Step1: curl -L https://gist.githubusercontent.com/meeee/5e252e93ba4589e67cf3/raw/faa25d74545ca527d713df2b843da43af3cf92ea/network > /etc/init.d/network
+Step1: curl -L https://raw.githubusercontent.com/am6539/FixVM/master/Stehttps/github.com/am6539/file > /etc/init.d/network
 
 Step2: chmod +x /etc/init.d/network
 
